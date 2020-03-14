@@ -1,5 +1,7 @@
 ## curso git desde cero
 
+Sistema de comtrol de verciones para el mantenimiento eficioente y confiable de archivos.
+
 ##Zonas de git
 1. Directorio de trabajo
 2. area de preparscion
@@ -18,3 +20,4 @@ git config --list
 
 
 git init
+git log
