@@ -19,5 +19,8 @@ git config --global core.editor nano
 git config --list
 
 
-git init
-git log
+git init  para inicializar el git de donde voy a trabajar 
+git log   para ver los commit que he realizado
+git rm    para eliminar un archivo completamente
+git checkout --archivo    para recuperar un archivo que borre 
+git mv  renombrar el archivo
