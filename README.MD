@@ -56,3 +56,7 @@ git tag -l "v1.*"   uso de patrones para filtrar las etiquetas
 
 git show
 
+git branch --help    este comando es para ver la ayuda de branch
+
+
+
