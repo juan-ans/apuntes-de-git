@@ -64,3 +64,5 @@ git merge nombre_rama  para fucionar con la rama donde estamos ubicados
 
 git branch --no-merged las ramas que no han sido fucionadas a la rama actual
 
+git branch --merged muestra las ramas que han sido fucionadas con la que nos encontramos ubicados
+
