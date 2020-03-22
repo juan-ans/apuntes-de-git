@@ -58,5 +58,9 @@ git show
 
 git branch --help    este comando es para ver la ayuda de branch
 
+git branch -d rama    para eliminar una rama ya fucionada
 
+git merge nombre_rama  para fucionar con la rama donde estamos ubicados
+
+git branch --no-merged las ramas que no han sido fucionadas a la rama actual
 
