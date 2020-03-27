@@ -66,3 +66,5 @@ git branch --no-merged las ramas que no han sido fucionadas a la rama actual
 
 git branch --merged muestra las ramas que han sido fucionadas con la que nos encontramos ubicados
 
+
+git config --list --global     para visualizar las configuraciones globales de git
